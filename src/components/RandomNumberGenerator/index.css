@@ -1,0 +1,45 @@
+.mega-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sm-container {
+  background-color: #ffff;
+  border-radius: 6px;
+  margin: 70px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.header {
+  color: #0b69ff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.description {
+  color: #333333;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.button {
+  border: 0;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  padding: 8px;
+  background-color: #0b69ff;
+  color: #ffff;
+}
+
+.random-one {
+  color: #0b69ff;
+  font-size: 30px;
+}
